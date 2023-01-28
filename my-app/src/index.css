@@ -1,0 +1,19 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.table > :not(caption) > * > * {
+  padding: 0.3rem 0.25rem;
+}
+
+h1 {
+  text-align: center;
+  margin: 15px 0px 15px 0px;
+  padding: 5px 0px 10px 0px;
+  background-color: rgb(102, 102, 102);
+}
+.btn.btn-secondary{
+  background-color: none;
+}
+
